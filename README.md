@@ -5,5 +5,7 @@
 * Lorem
 * Ipsum
 
-[] AAA
-[X] BBB
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
